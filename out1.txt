@@ -1,0 +1,324 @@
+﻿What will the Japanese economy be like next year?
+
+UNIGRAM MODEL:
+UNIGRAM: w
+FRENCH: P(w) = 0.00012045290291496025==>log prob of sentence so far: -3.9191827290425008
+ENGLISH: P(w) = 0.02336931611143768==>log prob of sentence so far: -1.6313539967808455
+GERMANY: P(w) = 0.017082624859506037==>log prob of sentence so far: -1.767445396269182
+UNIGRAM: h
+FRENCH: P(h) = 0.007840979087356485==>log prob of sentence so far: -6.024812433489769
+ENGLISH: P(h) = 0.06602764955788062==>log prob of sentence so far: -2.8116281591808794
+GERMANY: P(h) = 0.053101914560458034==>log prob of sentence so far: -3.0423352166556477
+UNIGRAM: a
+FRENCH: P(a) = 0.08387777564600983==>log prob of sentence so far: -7.101165528595278
+ENGLISH: P(a) = 0.08188631335399933==>log prob of sentence so far: -3.8984168402233337
+GERMANY: P(a) = 0.05847670922312843==>log prob of sentence so far: -4.275352291940607
+UNIGRAM: t
+FRENCH: P(t) = 0.06823909396336213==>log prob of sentence so far: -8.267132276692031
+ENGLISH: P(t) = 0.09242221277901966==>log prob of sentence so far: -4.932640478007606
+GERMANY: P(t) = 0.05702613908181792==>log prob of sentence so far: -5.519278322989602
+UNIGRAM: w
+FRENCH: P(w) = 0.00012045290291496025==>log prob of sentence so far: -12.186315005734532
+ENGLISH: P(w) = 0.02336931611143768==>log prob of sentence so far: -6.563994474788451
+GERMANY: P(w) = 0.017082624859506037==>log prob of sentence so far: -7.286723719258784
+UNIGRAM: i
+FRENCH: P(i) = 0.07324762664504765==>log prob of sentence so far: -13.321521448403375
+ENGLISH: P(i) = 0.06878195564084601==>log prob of sentence so far: -7.726519955062362
+GERMANY: P(i) = 0.077117976502685==>log prob of sentence so far: -8.399568093660266
+UNIGRAM: l
+FRENCH: P(l) = 0.053924672937911214==>log prob of sentence so far: -14.589733928688897
+ENGLISH: P(l) = 0.04489842582741422==>log prob of sentence so far: -9.074288840483362
+GERMANY: P(l) = 0.03645878363449475==>log prob of sentence so far: -9.837765918360478
+UNIGRAM: l
+FRENCH: P(l) = 0.053924672937911214==>log prob of sentence so far: -15.857946408974419
+ENGLISH: P(l) = 0.04489842582741422==>log prob of sentence so far: -10.422057725904363
+GERMANY: P(l) = 0.03645878363449475==>log prob of sentence so far: -11.275963743060691
+UNIGRAM: t
+FRENCH: P(t) = 0.06823909396336213==>log prob of sentence so far: -17.02391315707117
+ENGLISH: P(t) = 0.09242221277901966==>log prob of sentence so far: -11.456281363688635
+GERMANY: P(t) = 0.05702613908181792==>log prob of sentence so far: -12.519889774109686
+UNIGRAM: h
+FRENCH: P(h) = 0.007840979087356485==>log prob of sentence so far: -19.129542861518438
+ENGLISH: P(h) = 0.06602764955788062==>log prob of sentence so far: -12.636555526088669
+GERMANY: P(h) = 0.053101914560458034==>log prob of sentence so far: -13.794779594496152
+UNIGRAM: e
+FRENCH: P(e) = 0.17101499241940113==>log prob of sentence so far: -19.896508676040895
+ENGLISH: P(e) = 0.12300670409376752==>log prob of sentence so far: -13.546626744148575
+GERMANY: P(e) = 0.17224079464345754==>log prob of sentence so far: -14.558643574031903
+UNIGRAM: j
+FRENCH: P(j) = 0.006171949043373143==>log prob of sentence so far: -22.106086344241685
+ENGLISH: P(j) = 0.001135446499327085==>log prob of sentence so far: -16.491460068467696
+GERMANY: P(j) = 0.0017843934023074632==>log prob of sentence so far: -17.30715296523836
+UNIGRAM: a
+FRENCH: P(a) = 0.08387777564600983==>log prob of sentence so far: -23.182439439347196
+ENGLISH: P(a) = 0.08188631335399933==>log prob of sentence so far: -17.57824874951015
+GERMANY: P(a) = 0.05847670922312843==>log prob of sentence so far: -18.540170040523318
+UNIGRAM: p
+FRENCH: P(p) = 0.02893105622049084==>log prob of sentence so far: -24.72107515010442
+ENGLISH: P(p) = 0.01812068204052526==>log prob of sentence so far: -19.320074209543414
+GERMANY: P(p) = 0.0056461761626175585==>log prob of sentence so far: -20.788415616365413
+UNIGRAM: a
+FRENCH: P(a) = 0.08387777564600983==>log prob of sentence so far: -25.79742824520993
+ENGLISH: P(a) = 0.08188631335399933==>log prob of sentence so far: -20.406862890585867
+GERMANY: P(a) = 0.05847670922312843==>log prob of sentence so far: -22.02143269165037
+UNIGRAM: n
+FRENCH: P(n) = 0.07539846830069084==>log prob of sentence so far: -26.920065721824432
+ENGLISH: P(n) = 0.0689291721524829==>log prob of sentence so far: -21.568459827988494
+GERMANY: P(n) = 0.10282957241803319==>log prob of sentence so far: -23.00931466170869
+UNIGRAM: e
+FRENCH: P(e) = 0.17101499241940113==>log prob of sentence so far: -27.68703153634689
+ENGLISH: P(e) = 0.12300670409376752==>log prob of sentence so far: -22.478531046048403
+GERMANY: P(e) = 0.17224079464345754==>log prob of sentence so far: -23.77317864124444
+UNIGRAM: s
+FRENCH: P(s) = 0.08620893601859159==>log prob of sentence so far: -28.751479251236546
+ENGLISH: P(s) = 0.06743090481773865==>log prob of sentence so far: -23.649672058777004
+GERMANY: P(s) = 0.06650768033660913==>log prob of sentence so far: -24.95030684052469
+UNIGRAM: e
+FRENCH: P(e) = 0.17101499241940113==>log prob of sentence so far: -29.518445065759003
+ENGLISH: P(e) = 0.12300670409376752==>log prob of sentence so far: -24.55974327683691
+GERMANY: P(e) = 0.17224079464345754==>log prob of sentence so far: -25.71417082006044
+UNIGRAM: e
+FRENCH: P(e) = 0.17101499241940113==>log prob of sentence so far: -30.28541088028146
+ENGLISH: P(e) = 0.12300670409376752==>log prob of sentence so far: -25.46981449489682
+GERMANY: P(e) = 0.17224079464345754==>log prob of sentence so far: -26.478034799596188
+UNIGRAM: c
+FRENCH: P(c) = 0.032194103722211084==>log prob of sentence so far: -31.777634541361664
+ENGLISH: P(c) = 0.023627206028985992==>log prob of sentence so far: -27.096402126541438
+GERMANY: P(c) = 0.03428773163491743==>log prob of sentence so far: -27.9428960450448
+UNIGRAM: o
+FRENCH: P(o) = 0.05316877687650476==>log prob of sentence so far: -33.05197787167932
+ENGLISH: P(o) = 0.0728142263354678==>log prob of sentence so far: -28.234185887126934
+GERMANY: P(o) = 0.023350817026427273==>log prob of sentence so far: -29.57459396425996
+UNIGRAM: n
+FRENCH: P(n) = 0.07539846830069084==>log prob of sentence so far: -34.17461534829383
+ENGLISH: P(n) = 0.0689291721524829==>log prob of sentence so far: -29.39578282452956
+GERMANY: P(n) = 0.10282957241803319==>log prob of sentence so far: -30.56247593431828
+UNIGRAM: o
+FRENCH: P(o) = 0.05316877687650476==>log prob of sentence so far: -35.44895867861148
+ENGLISH: P(o) = 0.0728142263354678==>log prob of sentence so far: -30.533566585115057
+GERMANY: P(o) = 0.023350817026427273==>log prob of sentence so far: -32.19417385353344
+UNIGRAM: m
+FRENCH: P(m) = 0.030693851997282237==>log prob of sentence so far: -36.96190728395003
+ENGLISH: P(m) = 0.024484402880432==>log prob of sentence so far: -32.14467706809819
+GERMANY: P(m) = 0.026948423105372873==>log prob of sentence so far: -33.763640496132076
+UNIGRAM: y
+FRENCH: P(y) = 0.002127039585007292==>log prob of sentence so far: -39.63413171158832
+ENGLISH: P(y) = 0.017758383249475606==>log prob of sentence so far: -33.89527364369348
+GERMANY: P(y) = 0.0002425622256164923==>log prob of sentence so far: -37.37881732731647
+UNIGRAM: b
+FRENCH: P(b) = 0.008873844697980575==>log prob of sentence so far: -41.68601988777125
+ENGLISH: P(b) = 0.017703046546519895==>log prob of sentence so far: -35.6472256324453
+GERMANY: P(b) = 0.01995494586779638==>log prob of sentence so far: -39.078766773314655
+UNIGRAM: e
+FRENCH: P(e) = 0.17101499241940113==>log prob of sentence so far: -42.45298570229371
+ENGLISH: P(e) = 0.12300670409376752==>log prob of sentence so far: -36.5572968505052
+GERMANY: P(e) = 0.17224079464345754==>log prob of sentence so far: -39.842630752850404
+UNIGRAM: l
+FRENCH: P(l) = 0.053924672937911214==>log prob of sentence so far: -43.72119818257923
+ENGLISH: P(l) = 0.04489842582741422==>log prob of sentence so far: -37.9050657359262
+GERMANY: P(l) = 0.03645878363449475==>log prob of sentence so far: -41.280828577550615
+UNIGRAM: i
+FRENCH: P(i) = 0.07324762664504765==>log prob of sentence so far: -44.856404625248075
+ENGLISH: P(i) = 0.06878195564084601==>log prob of sentence so far: -39.067591216200114
+GERMANY: P(i) = 0.077117976502685==>log prob of sentence so far: -42.3936729519521
+UNIGRAM: k
+FRENCH: P(k) = 0.00029067377170496396==>log prob of sentence so far: -48.39299877929705
+ENGLISH: P(k) = 0.008458684886711152==>log prob of sentence so far: -41.140288369809035
+GERMANY: P(k) = 0.012173741798514846==>log prob of sentence so far: -44.30824886569573
+UNIGRAM: e
+FRENCH: P(e) = 0.17101499241940113==>log prob of sentence so far: -49.15996459381951
+ENGLISH: P(e) = 0.12300670409376752==>log prob of sentence so far: -42.05035958786894
+GERMANY: P(e) = 0.17224079464345754==>log prob of sentence so far: -45.07211284523148
+UNIGRAM: n
+FRENCH: P(n) = 0.07539846830069084==>log prob of sentence so far: -50.28260207043402
+ENGLISH: P(n) = 0.0689291721524829==>log prob of sentence so far: -43.21195652527157
+GERMANY: P(n) = 0.10282957241803319==>log prob of sentence so far: -46.0599948152898
+UNIGRAM: e
+FRENCH: P(e) = 0.17101499241940113==>log prob of sentence so far: -51.049567884956474
+ENGLISH: P(e) = 0.12300670409376752==>log prob of sentence so far: -44.12202774333147
+GERMANY: P(e) = 0.17224079464345754==>log prob of sentence so far: -46.82385879482555
+UNIGRAM: x
+FRENCH: P(x) = 0.004585144334313786==>log prob of sentence so far: -53.3882148737161
+ENGLISH: P(x) = 0.001092638861191535==>log prob of sentence so far: -47.08355110060256
+GERMANY: P(x) = 0.0001849236769551476==>log prob of sentence so far: -50.5568662746201
+UNIGRAM: t
+FRENCH: P(t) = 0.06823909396336213==>log prob of sentence so far: -54.55418162181286
+ENGLISH: P(t) = 0.09242221277901966==>log prob of sentence so far: -48.117774738386835
+GERMANY: P(t) = 0.05702613908181792==>log prob of sentence so far: -51.80079230566909
+UNIGRAM: y
+FRENCH: P(y) = 0.002127039585007292==>log prob of sentence so far: -57.22640604945114
+ENGLISH: P(y) = 0.017758383249475606==>log prob of sentence so far: -49.868371313982124
+GERMANY: P(y) = 0.0002425622256164923==>log prob of sentence so far: -55.415969136853484
+UNIGRAM: e
+FRENCH: P(e) = 0.17101499241940113==>log prob of sentence so far: -57.9933718639736
+ENGLISH: P(e) = 0.12300670409376752==>log prob of sentence so far: -50.77844253204203
+GERMANY: P(e) = 0.17224079464345754==>log prob of sentence so far: -56.17983311638923
+UNIGRAM: a
+FRENCH: P(a) = 0.08387777564600983==>log prob of sentence so far: -59.06972495907911
+ENGLISH: P(a) = 0.08188631335399933==>log prob of sentence so far: -51.865231213084485
+GERMANY: P(a) = 0.05847670922312843==>log prob of sentence so far: -57.41285019167419
+UNIGRAM: r
+FRENCH: P(r) = 0.06545930062303723==>log prob of sentence so far: -60.253753598149565
+ENGLISH: P(r) = 0.05479325476913632==>log prob of sentence so far: -53.12650411439658
+GERMANY: P(r) = 0.07031182454825788==>log prob of sentence so far: -58.56582182392004
+
+According to the unigram model, the sentence is in ENGLISH
+--------------------------------------------------------------------------
+BIGRAM wh
+FRENCH: P(h|w)= 0.0035629453681710215==>log prob of sentence so far: -2.448190836779987
+ENGLISH: P(h|w)= 0.2633582746478873==>log prob of sentence so far: -0.5794530316734605
+GERMANY: P(h|w)= 0.00012840267077555214==>log prob of sentence so far: -3.8914259428479943
+BIGRAM ha
+FRENCH: P(a|h)= 0.28174259483803915==>log prob of sentence so far: -2.9983383266607455
+ENGLISH: P(a|h)= 0.20085093665948378==>log prob of sentence so far: -1.2765791702878877
+GERMANY: P(a|h)= 0.11678223470552093==>log prob of sentence so far: -4.824049161340239
+BIGRAM at
+FRENCH: P(t|a)= 0.05614452062992664==>log prob of sentence so far: -4.24903094854419
+ENGLISH: P(t|a)= 0.13608028844933093==>log prob of sentence so far: -2.1427839491085665
+GERMANY: P(t|a)= 0.0548673273657289==>log prob of sentence so far: -6.084735355483239
+BIGRAM tw
+FRENCH: P(w|t)= 3.148482431468032e-05==>log prob of sentence so far: -8.750929674262556
+ENGLISH: P(w|t)= 0.02713911115612726==>log prob of sentence so far: -3.709188329304026
+GERMANY: P(w|t)= 0.03149058149058149==>log prob of sentence so far: -7.586554675290671
+BIGRAM wi
+FRENCH: P(i|w)= 0.02494061757719715==>log prob of sentence so far: -10.354022471028287
+ENGLISH: P(i|w)= 0.1659551056338028==>log prob of sentence so far: -4.489197711218769
+GERMANY: P(i|w)= 0.22842835130970723==>log prob of sentence so far: -8.22780467005474
+BIGRAM il
+FRENCH: P(l|i)= 0.1256309425988966==>log prob of sentence so far: -11.254925852766261
+ENGLISH: P(l|i)= 0.058468624933927356==>log prob of sentence so far: -5.722274831006076
+GERMANY: P(l|i)= 0.02577319587628866==>log prob of sentence so far: -9.816636395648947
+BIGRAM ll
+FRENCH: P(l|l)= 0.08148413266523502==>log prob of sentence so far: -12.343852805582554
+ENGLISH: P(l|l)= 0.1422358098754038==>log prob of sentence so far: -6.569265881072249
+GERMANY: P(l|l)= 0.11207114026236126==>log prob of sentence so far: -10.767142604984846
+BIGRAM lt
+FRENCH: P(t|l)= 0.0046528274874731565==>log prob of sentence so far: -14.67613585505388
+ENGLISH: P(t|l)= 0.035913705583756346==>log prob of sentence so far: -8.014005663037514
+GERMANY: P(t|l)= 0.08520433905146317==>log prob of sentence so far: -11.836680893104015
+BIGRAM th
+FRENCH: P(h|t)= 0.007377943831073422==>log prob of sentence so far: -16.808200510472084
+ENGLISH: P(h|t)= 0.3725705346793162==>log prob of sentence so far: -8.442797157974304
+GERMANY: P(h|t)= 0.019696969696969695==>log prob of sentence so far: -13.542281476339047
+BIGRAM he
+FRENCH: P(e|h)= 0.32851203880131646==>log prob of sentence so far: -17.291649220931905
+ENGLISH: P(e|h)= 0.4209934410242698==>log prob of sentence so far: -8.81852182828865
+GERMANY: P(e|h)= 0.21482489247783726==>log prob of sentence so far: -14.210196873243525
+BIGRAM ej
+FRENCH: P(j|e)= 0.010005214992261624==>log prob of sentence so far: -19.29142279573082
+ENGLISH: P(j|e)= 0.001578501904358866==>log prob of sentence so far: -11.620276718112333
+GERMANY: P(j|e)= 0.0016990358316987596==>log prob of sentence so far: -16.979994335254435
+BIGRAM ja
+FRENCH: P(a|j)= 0.14330589254766032==>log prob of sentence so far: -20.135158747354975
+ENGLISH: P(a|j)= 0.1568421052631579==>log prob of sentence so far: -12.424814054988907
+GERMANY: P(a|j)= 0.18829337094499296==>log prob of sentence so far: -17.70515930473691
+BIGRAM ap
+FRENCH: P(p|a)= 0.05498178957987791==>log prob of sentence so far: -21.394939875943244
+ENGLISH: P(p|a)= 0.026350201863748316==>log prob of sentence so far: -14.004030108382421
+GERMANY: P(p|a)= 0.0038762787723785165==>log prob of sentence so far: -20.116744301850417
+BIGRAM pa
+FRENCH: P(a|p)= 0.22181630951797185==>log prob of sentence so far: -22.04894640052663
+ENGLISH: P(a|p)= 0.1213756852992709==>log prob of sentence so far: -14.919898413389314
+GERMANY: P(a|p)= 0.10806345009914078==>log prob of sentence so far: -21.083065472877298
+BIGRAM an
+FRENCH: P(n|a)= 0.1515055657199528==>log prob of sentence so far: -22.868517813120228
+ENGLISH: P(n|a)= 0.1951920879567326==>log prob of sentence so far: -15.629436203677352
+GERMANY: P(n|a)= 0.1601262787723785==>log prob of sentence so far: -21.87860286182435
+BIGRAM ne
+FRENCH: P(e|n)= 0.17442258340461933==>log prob of sentence so far: -23.62691509850393
+ENGLISH: P(e|n)= 0.08664627162577612==>log prob of sentence so far: -16.691686323842518
+GERMANY: P(e|n)= 0.13342683711947026==>log prob of sentence so far: -22.75335967061962
+BIGRAM es
+FRENCH: P(s|e)= 0.18581774443173407==>log prob of sentence so far: -24.357827914460824
+ENGLISH: P(s|e)= 0.11311468472280999==>log prob of sentence so far: -17.63816733447764
+GERMANY: P(s|e)= 0.08543525706550266==>log prob of sentence so far: -23.821722540104787
+BIGRAM se
+FRENCH: P(e|s)= 0.1670660077538728==>log prob of sentence so far: -25.134939819724025
+ENGLISH: P(e|s)= 0.1118667303337903==>log prob of sentence so far: -18.589466389868953
+GERMANY: P(e|s)= 0.18601945854483926==>log prob of sentence so far: -24.552164164184507
+BIGRAM ee
+FRENCH: P(e|e)= 0.03131098176434964==>log prob of sentence so far: -26.63924313447201
+ENGLISH: P(e|e)= 0.04710537452391028==>log prob of sentence so far: -19.91639592875035
+GERMANY: P(e|e)= 0.019877337900931016==>log prob of sentence so far: -26.25380594369821
+BIGRAM ec
+FRENCH: P(c|e)= 0.057066314514501046==>log prob of sentence so far: -27.88286330884261
+ENGLISH: P(c|e)= 0.03484976724502751==>log prob of sentence so far: -21.374196046876946
+GERMANY: P(c|e)= 0.007334862005138548==>log prob of sentence so far: -28.38841399606705
+BIGRAM co
+FRENCH: P(o|c)= 0.21754579563010373==>log prob of sentence so far: -28.54531261446733
+ENGLISH: P(o|c)= 0.16255932424783384==>log prob of sentence so far: -22.163184161612975
+GERMANY: P(o|c)= 0.0032771535580524347==>log prob of sentence so far: -30.872917204409312
+BIGRAM on
+FRENCH: P(n|o)= 0.2986826186315365==>log prob of sentence so far: -29.070102664216893
+ENGLISH: P(n|o)= 0.135615109094282==>log prob of sentence so far: -23.030876083949707
+GERMANY: P(n|o)= 0.16743604539334486==>log prob of sentence so far: -31.64906824638954
+BIGRAM no
+FRENCH: P(o|n)= 0.05741849634065203==>log prob of sentence so far: -30.31105084908859
+ENGLISH: P(o|n)= 0.08079902344927362==>log prob of sentence so far: -24.123469972100303
+GERMANY: P(o|n)= 0.013450749563138048==>log prob of sentence so far: -33.52032175966716
+BIGRAM om
+FRENCH: P(m|o)= 0.07128646323430568==>log prob of sentence so far: -31.45804378067841
+ENGLISH: P(m|o)= 0.06504987371034719==>log prob of sentence so far: -25.31022351435339
+GERMANY: P(m|o)= 0.04625889594152722==>log prob of sentence so far: -34.85512649639089
+BIGRAM my
+FRENCH: P(y|m)= 0.003122831367106176==>log prob of sentence so far: -33.963495247717056
+ENGLISH: P(y|m)= 0.035122750966874054==>log prob of sentence so far: -26.76463498995122
+GERMANY: P(y|m)= 0.0007565568258238063==>log prob of sentence so far: -37.97628494246546
+BIGRAM yb
+FRENCH: P(b|y)= 0.00358719646799117==>log prob of sentence so far: -36.408740084414994
+ENGLISH: P(b|y)= 0.03888504554364119==>log prob of sentence so far: -28.174852377997595
+GERMANY: P(b|y)= 0.001288659793814433==>log prob of sentence so far: -40.86614666372365
+BIGRAM be
+FRENCH: P(e|b)= 0.08267837879488366==>log prob of sentence so far: -37.49134813227178
+ENGLISH: P(e|b)= 0.2381599491123576==>log prob of sentence so far: -28.79798364915463
+GERMANY: P(e|b)= 0.4678317008014248==>log prob of sentence so far: -41.196057016971615
+BIGRAM el
+FRENCH: P(l|e)= 0.0630383217818451==>log prob of sentence so far: -38.69174348950643
+ENGLISH: P(l|e)= 0.046732966567922134==>log prob of sentence so far: -30.12836029862067
+GERMANY: P(l|e)= 0.039740862502417325==>log prob of sentence so far: -42.5968197285316
+BIGRAM li
+FRENCH: P(i|l)= 0.06189188472653039==>log prob of sentence so far: -39.900109781512775
+ENGLISH: P(i|l)= 0.11632441162898016==>log prob of sentence so far: -31.06268943407931
+GERMANY: P(i|l)= 0.18358980827447025==>log prob of sentence so far: -43.33297116023399
+BIGRAM ik
+FRENCH: P(k|i)= 0.00040106428767069686==>log prob of sentence so far: -43.296895789084985
+ENGLISH: P(k|i)= 0.013342898134863702==>log prob of sentence so far: -32.93743926362338
+GERMANY: P(k|i)= 0.005276642469346672==>log prob of sentence so far: -45.61061349164909
+BIGRAM ke
+FRENCH: P(e|k)= 0.04359925788497217==>log prob of sentence so far: -44.657416691999984
+ENGLISH: P(e|k)= 0.3330370897025714==>log prob of sentence so far: -33.41494666087929
+GERMANY: P(e|k)= 0.2553969359331476==>log prob of sentence so far: -46.20339780904005
+BIGRAM en
+FRENCH: P(n|e)= 0.13413044209676334==>log prob of sentence so far: -45.52988933596617
+ENGLISH: P(n|e)= 0.0836436732966568==>log prob of sentence so far: -34.49251356383267
+GERMANY: P(n|e)= 0.23475702406276763==>log prob of sentence so far: -46.83277921357128
+BIGRAM ne
+FRENCH: P(e|n)= 0.17442258340461933==>log prob of sentence so far: -46.28828662134987
+ENGLISH: P(e|n)= 0.08664627162577612==>log prob of sentence so far: -35.554763683997834
+GERMANY: P(e|n)= 0.13342683711947026==>log prob of sentence so far: -47.70753602236655
+BIGRAM ex
+FRENCH: P(x|e)= 0.005395834735212973==>log prob of sentence so far: -48.55622798181112
+ENGLISH: P(x|e)= 0.006614473127380448==>log prob of sentence so far: -37.73426842761101
+GERMANY: P(x|e)= 0.0009254910627952593==>log prob of sentence so far: -50.74116379311603
+BIGRAM xt
+FRENCH: P(t|x)= 0.05816268486916951==>log prob of sentence so far: -49.79158353586949
+ENGLISH: P(t|x)= 0.16365606936416185==>log prob of sentence so far: -38.5203363113829
+GERMANY: P(t|x)= 0.006648936170212766==>log prob of sentence so far: -52.918411629371654
+BIGRAM ty
+FRENCH: P(y|t)= 0.0008500902564963687==>log prob of sentence so far: -52.862118497428874
+ENGLISH: P(y|t)= 0.013668028405190363==>log prob of sentence so far: -40.38463043869511
+GERMANY: P(y|t)= 0.00045045045045045046==>log prob of sentence so far: -56.26476460382229
+BIGRAM ye
+FRENCH: P(e|y)= 0.21219646799116998==>log prob of sentence so far: -53.535380346632216
+ENGLISH: P(e|y)= 0.1121007725123948==>log prob of sentence so far: -41.335021833265934
+GERMANY: P(e|y)= 0.001288659793814433==>log prob of sentence so far: -59.15462632508048
+BIGRAM ea
+FRENCH: P(a|e)= 0.030621256981360607==>log prob of sentence so far: -55.0493573324168
+ENGLISH: P(a|e)= 0.08684299619128227==>log prob of sentence so far: -42.39628703452578
+GERMANY: P(a|e)= 0.012666795590794817==>log prob of sentence so far: -61.051959562860766
+BIGRAM ar
+FRENCH: P(r|a)= 0.09205239129319631==>log prob of sentence so far: -56.08532225753493
+ENGLISH: P(r|a)= 0.10243633039636392==>log prob of sentence so far: -43.3858330222963
+GERMANY: P(r|a)= 0.10489929667519182==>log prob of sentence so far: -62.03118698649855
+
+According to the biagram model, the sentence is in ENGLISH
